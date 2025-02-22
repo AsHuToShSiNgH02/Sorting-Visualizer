@@ -63,7 +63,7 @@ The app will be available at `http://localhost:3000/`.
 │   ├── Visuals.js
 │   ├── Visuals.css
 │
-│── reducer/
+│── 📂reducer/
 │   ├── index.js
 │   ├── updateProps.js
 │
