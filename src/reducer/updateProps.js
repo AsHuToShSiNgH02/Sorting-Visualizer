@@ -19,6 +19,10 @@ const initializer = {
           return {...state, range:action.range, values:arr};
        }
  
+       // case 'UPDATE_VALUES': {
+       //    return {...state,values:action._values};
+       // }
+ 
        case 'UPDATE_SPEED':{
           return {...state, speed:action.speed};
        }
