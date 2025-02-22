@@ -3,7 +3,7 @@
 A **Sorting Visualizer** built using **React 17.0.2**, designed to help users understand different sorting algorithms through animations.
 
 ## Features
-- **Sorting Algorithms:** Bubble Sort, Merge Sort, Insertion Sort, Selection Sort, Quick Sort, and Counting Sort.
+- **Sorting Algorithms:** Bubble Sort, Merge Sort, Insertion Sort, Selection Sort and Quick Sort.
 - **Dynamic Range Control:** Adjust the number of elements in the array.
 - **Speed Control:** Modify the speed of sorting animations.
 - **Color Selection:** Customize the color of the bars.
